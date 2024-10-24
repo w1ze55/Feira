@@ -5,3 +5,5 @@ In my college we tried to make a simple website for html and css training. To up
 I used JavaScript to make the preload work.
 
 I was going to try to make a login system, but I didn't.
+
+And I also used Guga's photo, because my nickname in college is Guga.
